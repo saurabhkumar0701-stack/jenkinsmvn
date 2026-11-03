@@ -10,6 +10,7 @@ public class TdemoTest {
 		WebDriver driver =new ChromeDriver();
 		driver.manage().window().maximize();
 		System.out.println("sample created");
+		System.out.println("demo created");
 		driver.quit();
 	}
 
